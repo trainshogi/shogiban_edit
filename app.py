@@ -5,7 +5,6 @@ import json
 
 # 自身の名称を app という名前でインスタンス化する
 app = Flask(__name__)
-Bower(app)
 
 # ここからウェブアプリケーション用のルーティングを記述
 # index にアクセスしたときの処理
