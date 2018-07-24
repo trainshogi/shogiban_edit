@@ -1,0 +1,24 @@
+span{
+    cursor: pointer;
+}
+.contents{
+    position: relative;
+    text-align: center;
+    width: 80%;
+    margin: 5px auto;
+    z-index: 1;
+}
+.contents #pic1{
+    width: 100%;
+    z-index: 1;
+    image-orientation: from-image;
+}
+p {
+    text-align: center;
+}
+div#back {
+    text-align: center;
+}
+#tmpfoot{
+    text-align: center;
+}
